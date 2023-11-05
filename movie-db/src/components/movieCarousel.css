@@ -1,0 +1,14 @@
+.carouselDots {
+    margin-bottom: 90px;
+  }
+  
+  .carousel.carousel-slider .control-arrow {
+    top: 162px;
+    height: 39px;
+  }
+  
+  .carousel .slide .legend {
+    width: 572px;
+    bottom: 31px;
+    left: 76%;
+  }
